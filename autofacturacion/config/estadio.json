@@ -1,7 +1,8 @@
 {
    "host":"bdsqlautfacprod.postgres.database.azure.com",
-   "user":"admin_pg",
-   "password":"Bdpg_Ted7",
-   "database":"bdsqlautfacdev",
+   "user":"admin555",
+   "password":"Bd7",
+   "database":"bddev",
    "port":"5432"
+
 }
